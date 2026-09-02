@@ -1,0 +1,4 @@
+interface:
+  display_name: "Harden Pinned Projects with Chainguard"
+  short_description: "Rebuild frozen software on Chainguard images"
+  default_prompt: "Use $chainctl-harden-eol-project to rebuild this pinned GitHub project with Chainguard Custom Assembly and produce validation evidence."
